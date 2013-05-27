@@ -1,7 +1,7 @@
 -- Made with Dr. Matt's Base Core v3
 ENT.Base 		= "base_core3"
 ENT.PrintName		= "Skyrim Shouts Core" -- The name the Core will come up as in the Spawnmenu
-ENT.Spawnable		= true -- If true, Anyone can spawn the entity
+ENT.Spawnable		= false -- If true, Anyone can spawn the entity
 ENT.AdminSpawnable	= true -- If true, Admins can spawn the entity, Set ENT.Spawnable to false to make the Core Admin only.
 ENT.Category		= "Portal 2 Cores"
 ENT.Animation		= "sphere_idle_neutral" -- Set's the animation of the core, a list can be found here: http://pastebin.com/SAHyMZ3k
